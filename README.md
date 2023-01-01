@@ -77,7 +77,7 @@ Case Study:
 - The number of Males is higher amongst both the attrited and existing customers.
 - **The possibility of a Male customer attrited is higher than that of a Female customer**.
 
-## Ecucation- Existing and Attrited Customers:
+## Education- Existing and Attrited Customers:
 
 - Create a query based on Education - Existing and Attrited Contribution using MY SQL
 
